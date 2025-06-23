@@ -1,22 +1,19 @@
 # Benjamin Koensgen
 
-### Ingénieur Roboticien | ROS 2 | C++ | Python
-
-<br>
-
-Ingénieur passionné par la convergence du matériel et du logiciel. Je conçois et développe des systèmes robotiques complets, de la conception mécanique à la programmation de la logique de contrôle avancée. Mon objectif : construire des solutions intelligentes, robustes et efficaces.
-
-- 🔭 Je suis toujours en quête de nouveaux défis en **contrôle robotique** et en **perception**.
-- 🌱 Particulièrement fier de ma contribution au **framework Nav2**.
-- 📫 N'hésitez pas à me contacter : **b.koensgen@gmail.com**
-
-<br>
+### Bridging the gap between hardware and software with ROS 2, C++, and Python.
 
 ---
 
-### 🛠️ Langages et Outils
+Hi, I'm Benjamin 👋. I'm a Robotics Engineer with a mechanical design background, passionate about building robust, intelligent systems from the ground up. I thrive on solving complex problems at the intersection of the physical and digital worlds.
 
-<p align="left">
+- ✅ I'm proud to be a contributor to the **Nav2 navigation stack**.
+- 📫 Let's connect: **b.koensgen@gmail.com** or on [LinkedIn](https://www.linkedin.com/in/benjamin-koensgen/).
+
+<br>
+
+## 🛠️ Core Technologies & Tools
+
+<p align="center">
   <a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="cplusplus"/>
   </a>
@@ -45,35 +42,24 @@ Ingénieur passionné par la convergence du matériel et du logiciel. Je conçoi
 
 ---
 
-### 🚀 Mes Projets & Contributions
+## 🚀 Featured Work & Contributions
 
-### Contribution à Nav2 (Open Source)
-*   **[Pull Request #5218](https://github.com/ros-navigation/navigation2/pull/5218)** : Amélioration du module de docking en créant une API C++ pour activer/désactiver les détecteurs à la demande, optimisant ainsi la consommation des ressources sur les robots embarqués.
-    *   **Techs :** `C++`, `ROS 2`, `CMake`, `gtest`
-    *   **Impact :** Contribution significative au framework de navigation standard de l'industrie.
+### 1. Contribution to Nav2 (Open Source)
+- **[Pull Request #5218](https://github.com/ros-navigation/navigation2/pull/5218)**: Designed and implemented a C++ API to dynamically manage vision-based detectors in the `nav2_docking` module. This optimization reduces the continuous computational load on resource-constrained robots.
+- **Tech Stack**: `C++`, `ROS 2`, `CMake`, `gtest`
 
 <br>
 
-### Robo-Pointer (Projet Personnel)
-*   **[Dépôt GitHub](https://github.com/bkoensgen/robo-pointer-so100)** : Conception d'un système complet de visuo-serviçage pour un bras robotique. Le projet couvre toute la chaîne, de la perception (OpenCV) à l'actionnement bas-niveau (Feetech SDK).
-    *   **Techs :** `ROS 2`, `Python`, `OpenCV`, `Cinématique Inverse (IK)`, `Contrôle PI`
-    *   **Impact :** Démonstration de la maîtrise de l'architecture d'un projet robotique complexe.
+### 2. Robo-Pointer (End-to-End Robotics Project)
+- **[GitHub Repository](https://github.com/bkoensgen/robo-pointer-so100)**: Architected and built a complete visual servoing system for a robotic arm. The project integrates perception, control logic, and low-level hardware communication into a cohesive ROS 2 application.
+- **Tech Stack**: `ROS 2`, `Python`, `OpenCV`, `Inverse Kinematics (IK)`, `PID Control`
 
 ---
 
-### 📊 Mes Statistiques GitHub
+## 📊 My GitHub Activity
 
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=bkoensgen&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bkoensgen&layout=compact&langs_count=6&theme=transparent"/>
-</p>
-
----
-
-### 📫 Contact & Liens
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/benjamin-koensgen/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bkoensgen&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Benjamin's GitHub Stats"/>
+  <br><br>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bkoensgen&layout=compact&langs_count=6&theme=dracula" alt="Benjamin's Top Languages"/>
 </p>
