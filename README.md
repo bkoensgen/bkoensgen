@@ -6,7 +6,6 @@
 
 Hi, I'm Benjamin 👋. I'm a Robotics Engineer with a mechanical design background, passionate about building robust, intelligent systems from the ground up. I thrive on solving complex problems at the intersection of the physical and digital worlds.
 
-- ✅ I'm proud to be a contributor to the **Nav2 navigation stack**.
 - 📫 Let's connect: **b.koensgen@gmail.com** or on [LinkedIn](https://www.linkedin.com/in/benjamin-koensgen/).
 
 <br>
